@@ -16,7 +16,3 @@ welcome to my profile.
 - 📫 How to reach me via email:**mahadeujjaman2000@gmail.com**
 
 - ⚡ Fun fact **I think i am funny and more reliable person.Guess i can make a smile for you.**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
