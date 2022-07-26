@@ -5,7 +5,7 @@ welcome to my profile.
 <!--
 **Mahadeujjaman/Mahadeujjaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <a href="https://twitter.com/mdmehedihasansr" target="blank"><img src="https://img.shields.io/twitter/follow/mdmehedihasansr?logo=twitter&style=for-the-badge" alt="mdmehedihasansr" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Mahadeujjamansr" target="blank"><img src="https://img.shields.io/twitter/follow/Mahadeujjamansr?logo=twitter&style=for-the-badge" alt="Mahadeujjaman" /></a> </p>
 
 - 🌱 I’m currently studying **CSE Undergraduate at Bangladesh University of Business and Technology (BUBT).**
 
